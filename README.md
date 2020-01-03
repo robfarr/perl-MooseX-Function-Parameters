@@ -10,7 +10,7 @@ versions of Function::Parameters aren't.
 
 Writing functions:
 
-```
+```perl
 use MooseX::Function::Parameters;
 
 fun add (Int $a, Int $b) {
@@ -20,7 +20,7 @@ fun add (Int $a, Int $b) {
 
 Writing methods:
 
-```
+```perl
 package My::Class;
 use Moose;
 use MooseX::Function::Parameters;
