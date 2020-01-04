@@ -38,7 +38,7 @@ sub _get_args {
 
 =head1 NAME
 
-MooseX::Function::Parameters
+MooseX::Function::Parameters - A Moose wrapper around Function::Parameters
 
 =head1 SYNOPSIS
 
