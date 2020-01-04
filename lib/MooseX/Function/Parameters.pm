@@ -64,4 +64,8 @@ B<method> subroutine keywords which integrate with the Moose type system.
 Designed to be compatible with Function::Parameters version 1, where newer
 versions of Function::Parameters aren't
 
+=head1 LICENSE
+
+See L<perlartistic>
+
 =cut
